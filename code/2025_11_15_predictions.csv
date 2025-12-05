@@ -1,0 +1,588 @@
+﻿title,probability,predicted,appearance_count,days_since_last,seasonal_match
+Regulation of Body Temperature,0.057197702025520235,0,7,28,0.42857142857142855
+Grain in Colonial North America,0.050843746385736244,0,7,28,0.42857142857142855
+Rural Manufacture,0.04714654842430069,0,10,28,0.3
+How the First People Got to the Interior of North America,0.046606332477118075,0,7,14,0.2857142857142857
+Was There Water on Ancient Mars?,0.04658933308786372,0,6,14,0.16666666666666666
+Thermal Stratification,0.04612514669501307,0,4,14,0.25
+Attempts at Determining Earth’s Age,0.03879111278954692,0,10,14,0.3
+Insect Wings,0.038409787359236655,0,4,28,0.5
+The K/T Boundary,0.03812203849956421,0,10,14,0.1
+Day Length and Reproductive Timing in Animals,0.03792733685234797,0,5,14,0.6
+Naturalism and Nature in Art,0.03782780259129087,0,10,21,0.4
+Parental Care by Frogs,0.030854894634042434,0,9,28,0.3333333333333333
+The Formation of Moons,0.028340154031445297,0,5,14,0.2
+Temporary Pools,0.028207713883953406,0,6,14,0.3333333333333333
+Commedia dell'Arte,0.02621795633021492,0,6,28,0.5
+French Gothic Cathedrals,0.02440050559736134,0,2,14,0.5
+Early Domestication and Agriculture,0.024282345301375144,0,3,14,0.3333333333333333
+Changes in the Art Market During the Late Nineteenth Century,0.02340567926884282,0,6,28,0.6666666666666666
+Oil Painting in Renaissance Florence,0.02327229169909918,0,4,14,0.5
+Tidal Heating on lo,0.02269515394746911,0,7,28,0.2857142857142857
+Habitability of Planets,0.018722523929507632,0,10,21,0.4
+The Economics of Academic Tenure,0.017890963110382175,0,10,14,0.4
+The Porcelain Industry at Jingdezhen,0.01435412820632582,0,9,28,0.4444444444444444
+Early Food Production in Africa,0.009693044641841448,0,5,14,0.4
+From Water to Land,0.0047857535574723055,0,10,55,0.3
+Insect Senses,0.0047857535574723055,0,9,153,0.3333333333333333
+Magma,0.004754720859886641,0,3,63,0.3333333333333333
+The Collapse of the Maya,0.004431844399899544,0,10,28,0.2
+Jazz,0.0025291890186178658,0,9,273,0.1111111111111111
+Developing Sustainable Pesticides,0.0,0,5,21,0.4
+Archaeological Evidence for Social Complexity,0.0,0,4,21,0.25
+How Did Life Begin,0.0,0,2,28,0.5
+The Global Industrial Revolution,0.0,0,3,28,0.3333333333333333
+Language and Migration,0.0,0,2,31,0.5
+Were Dinosaurs Endothermic,0.0,0,2,31,0.5
+Agricultural Practices of the Maya,0.0,0,2,35,0.5
+Archaeoptertx and Flight,0.0,0,2,35,1.0
+Disease and History,0.0,0,1,4095,0.0
+The Northern Long-necked Turtle,0.0,0,2,55,0.0
+Reconstructing Prehistoric Human Lifestyles,0.0,0,2,55,0.0
+A Cat's Sense of Smell,0.0,0,2,56,0.0
+Transportation and Economic Change in the Nineteenth-Century United States,0.0,0,5,56,0.0
+Is Panspermia Possible,0.0,0,2,59,0.0
+Gordon Childe and the Neolithic Revolution,0.0,0,2,59,0.0
+Living-History Museums in the United States,0.0,0,4,35,0.5
+The Collapse of Copán,0.0,0,4,69,0.0
+Lighting in Museums,0.0,0,4,21,0.5
+The Origin of Flight in Birds,0.0,0,2,70,0.5
+The Phenomenon of Hypnosis,0.0,0,5,70,0.2
+Megapode Approaches to Incubation,0.0,0,3,77,0.0
+Currency and the Emergence of china's Market Economy,0.0,0,3,77,0.6666666666666666
+The Upper Paleolithic Revolution,0.0,0,1,3779,0.0
+Transportation and Urban Development in Los Angeles,0.0,0,4,80,0.0
+Deer and the Forests of Kinkazan,0.0,0,5,84,0.2
+Indigo,0.0,0,3,84,0.0
+Soil Formation,0.0,0,2,87,0.0
+Wool Manufacturing in Europe in the High Middle Ages,0.0,0,6,87,0.0
+Germanic Invasions of the Roman Empire,0.0,0,6,21,0.3333333333333333
+Benefits of Migration,0.0,0,3,109,0.3333333333333333
+The Collision Model of the Moon's Formation,0.0,0,2,115,0.0
+The Proto-Indo-European Language,0.0,0,3,87,0.0
+Coal's Rise and Fall,0.0,0,6,28,0.3333333333333333
+Igloos,0.0,0,1,245,0.0
+Where Did the Carbon Go?,0.0,0,2,80,0.0
+Early Photography in the United States,0.0,0,8,80,0.375
+Degradation and Erosion of Soil,0.0,0,2,119,0.5
+Creativity,0.0,0,6,119,0.16666666666666666
+Sunspot Cycles,0.0,0,5,21,0.2
+Transportation and the Roman Empire,0.0,0,6,126,0.0
+Effects of Plate Tectonics on Species,0.0,0,6,129,0.16666666666666666
+Animal Farming in the Chesapeake Colonies,0.0,0,4,28,0.5
+Making the Most of Dark Nights,0.0,0,1,132,0.0
+Agriculture in Colonial New England,0.0,0,8,132,0.125
+Horns in Beetle Competition,0.0,0,2,140,0.0
+Science and Nineteenth-Century Visual Arts,0.0,0,3,140,0.0
+London's Second-Century Decline,0.0,0,6,122,0.0
+The Greenhouse Effect on Venus,0.0,0,2,147,0.0
+Building Materials in the Nineteenth Century,0.0,0,2,154,0.0
+Animal Migration Patterns in the Serengeti,0.0,0,4,94,0.0
+Extraterrestrial lmpact and Megafauna Extinctions,0.0,0,1,367,1.0
+Dating Archaeological Objects,0.0,0,1,174,0.0
+New World and Old World Primates,0.0,0,5,174,0.4
+lron Working in Africa,0.0,0,4,35,0.5
+Chimpanzee Communication,0.0,0,3,182,0.0
+Agriculture and the classic Maya Collapse,0.0,0,1,182,0.0
+The History and Composition of Laundry Detergent,0.0,0,6,82,0.16666666666666666
+Fungi and Forests,0.0,0,3,28,0.3333333333333333
+The Nabis,0.0,0,4,28,0.25
+Agricultural Origins,0.0,0,2,146,0.0
+Mycorrhizae,0.0,0,7,80,0.2857142857142857
+The Origins of Writing,0.0,0,7,140,0.14285714285714285
+Adaptations of Marine Mammals,0.0,0,4,217,0.25
+Maya Population in the Classic Period,0.0,0,3,217,0.6666666666666666
+Sources of Prosperity during China's Song Dynasty,0.0,0,5,284,0.6
+Human Responsibility for Megafaunal Extinctions,0.0,0,4,367,0.5
+Insect Colony Movement,0.0,0,4,69,0.25
+The Industrial Revolution in Britain,0.0,0,10,63,0.2
+How Fossils Map the Past,0.0,0,4,238,0.25
+The Greek Revival,0.0,0,9,56,0.1111111111111111
+Erratics and Drift,0.0,0,4,250,0.5
+The Early Iron Age,0.0,0,7,126,0.14285714285714285
+Mars's Disappearing Atmosphere,0.0,0,6,126,0.3333333333333333
+The Moon's Origin,0.0,0,6,244,0.0
+Equestrian Portraits in the Eighteenth and Nineteenth Centuries,0.0,0,4,213,0.0
+Why Did Agriculture Arise,0.0,0,6,97,0.16666666666666666
+The Origin of Mars's Moons,0.0,0,6,159,0.0
+Periglacial Mounds,0.0,0,3,119,0.3333333333333333
+Opera in Seventeenth-Century Venice,0.0,0,3,217,0.3333333333333333
+The Azolla Event,0.0,0,6,83,0.0
+The American Hospital,0.0,0,3,385,1.0
+Reconstructing the Spread of the Grain Weevil,0.0,0,3,294,0.3333333333333333
+The Deforestation of England,0.0,0,10,59,0.3
+When Honeybees Become Foragers,0.0,0,10,308,0.3
+Dutch Art and the Middle Class,0.0,0,4,266,0.0
+Sensory Ecology,0.0,0,3,308,0.0
+Lenape Horticulture,0.0,0,4,96,0.25
+Tyrannosaurus rex: Predator or Scavenger?,0.0,0,8,129,0.375
+Pastoralism as a Way of Life,0.0,0,10,346,0.5
+Dorset Culture,0.0,0,10,94,0.4
+Life in the Desert,0.0,0,9,213,0.4444444444444444
+Debating the Agricultural Diet,0.0,0,2,392,0.5
+Diving for Food by Birds,0.0,0,5,87,0.2
+Carbon Dioxide Levels in the Ocean,0.0,0,4,119,0.25
+Prosperity in British North America,0.0,0,3,332,0.3333333333333333
+Temperate Plant Phenology,0.0,0,4,80,0.25
+Classical Greek Tragedy,0.0,0,4,70,0.25
+The Origins of Life on Earth,0.0,0,2,56,0.5
+The Royal Palace of Foumban,0.0,0,4,251,0.5
+When Did Humans First Colonize the Americas?,0.0,0,10,322,0.5
+Honeybee Juvenile Hormone,0.0,0,7,349,0.42857142857142855
+Late Classic Maya Agriculture,0.0,0,6,118,0.16666666666666666
+Food Caching by Scrub Jays,0.0,0,2,363,0.5
+Irrigation and Early Civilizations,0.0,0,5,31,0.4
+Desert Adaptation in Kangaroo Rats,0.0,0,2,363,0.5
+Why Did Social stratification Emerge?,0.0,0,5,83,0.6
+Thermoregulation in Marine Mammals,0.0,0,6,75,0.0
+The First Settlers in Ancient Amazonia,0.0,0,1,385,1.0
+Waking Up Coming Out of Hibernation,0.0,0,5,28,0.4
+Hermit Crabs in Snail Shells,0.0,0,7,392,0.8571428571428571
+Impressionists and Their Paints,0.0,0,8,82,0.125
+Can lo and Europa Support Life?,0.0,0,10,399,0.3
+Agriculture in Classical China,0.0,0,5,399,0.4
+Theatrical Staging,0.0,0,2,434,0.0
+Pollen Gathering by Animals,0.0,0,1,434,0.0
+Proto-industrialization in Europe,0.0,0,4,95,0.25
+Mate Choice in Birds,0.0,0,5,35,0.2
+Cloth Manufacturing in England,0.0,0,2,423,0.0
+Origins of the Deciduous Forests,0.0,0,2,423,0.0
+The Decline of the Large Blue Butterfly in England,0.0,0,3,174,0.0
+The Nile River Valley,0.0,0,6,77,0.16666666666666666
+Animal Communication,0.0,0,5,231,0.0
+The Choreography of Merce Cunningham,0.0,0,10,70,0.0
+Facial Expressions,0.0,0,2,440,0.5
+Greece Emerges from the Dark Ages,0.0,0,7,440,0.14285714285714285
+Characteristics of Tropical Rain Forests,0.0,0,8,448,0.625
+Economic Reasoning,0.0,0,4,217,0.25
+Martian Volcanoes,0.0,0,9,70,0.5555555555555556
+The River Nile in Ancient Egypt,0.0,0,10,311,0.3
+The Faint Young Sun Paradox,0.0,0,10,432,0.2
+The Silk Makers,0.0,0,3,497,0.0
+Methane Hydrate as a Potential Fuel,0.0,0,10,77,0.2
+The Chemical Defenses of Trees,0.0,0,3,514,0.0
+Cool Early Earth Hypothesis,0.0,0,2,269,0.0
+The Columbia Exchange,0.0,0,1,517,0.0
+Silver in North America in the Late Eighteenth Century,0.0,0,5,69,0.0
+Measuring Climate Change on Mountains,0.0,0,9,109,0.1111111111111111
+Mire Biology,0.0,0,4,84,0.0
+Modern lnuit Commercial Arts,0.0,0,4,84,0.0
+Forest Management in the Blue Mountains,0.0,0,7,84,0.14285714285714285
+The Horse and the Camel in Early China,0.0,0,9,129,0.1111111111111111
+The Waterfall Environment,0.0,0,6,63,0.16666666666666666
+Easter Island's Statues,0.0,0,7,21,0.14285714285714285
+Escape Mechanisms of Ypsolopha Dentella,0.0,0,5,958,0.2
+The Medieval Agricultural Revolution,0.0,0,10,132,0.1
+Animals and Forests,0.0,0,4,140,0.0
+Painting in the Dutch Golden Age,0.0,0,10,88,0.1
+Physiological Adaptations of Tuna,0.0,0,5,206,0.2
+The Carboniferous Atmosphere,0.0,0,4,273,0.25
+Uniformitarianism and Earth's Cycles,0.0,0,5,154,0.2
+The Kingdom of Meroě,0.0,0,10,61,0.2
+Natufians and the Domestication of Grain,0.0,0,9,420,0.2222222222222222
+Egypt in Early World History,0.0,0,4,62,0.0
+A Transportation Transformation,0.0,0,7,70,0.14285714285714285
+Communication: Bumblebees Versus Honeybees,0.0,0,5,732,0.4
+"Iron, Steam, and Factories in Eighteenth-Century Europe",0.0,0,10,59,0.3
+Formation of Earth's Atmosphere and Oceans,0.0,0,8,87,0.125
+The Chytrid Fungus Epidemic,0.0,0,3,28,0.3333333333333333
+The Effects of the Tambora Volcano Eruption on the Atmosphere,0.0,0,9,244,0.2222222222222222
+Egyptian Hieroglyphs,0.0,0,6,116,0.0
+Essentials of Chinese Art,0.0,0,10,84,0.1
+Atwater Food Energy Value System,0.0,0,7,195,0.2857142857142857
+Early Metallurgy,0.0,0,2,375,1.0
+In the Darkest Depths,0.0,0,3,200,0.0
+Early Native American Cultures,0.0,0,5,207,0.2
+Seasonal Bird Populations,0.0,0,4,139,0.0
+Hunting the American Bison,0.0,0,8,83,0.0
+Climate Change in Early Urban Centers,0.0,0,5,377,0.4
+The Medieval European Recovery,0.0,0,5,69,0.0
+Abandoning Hunting and Gathering,0.0,0,10,159,0.2
+Chinese Salt Production and Government Power,0.0,0,8,80,0.125
+Monochrome Landscape Painting in Medieval Japan,0.0,0,4,1119,0.5
+The vadose Zone and its Structure,0.0,0,4,97,0.0
+Economic Growth in Europe's Smaller Countries,0.0,0,5,244,0.0
+Strengths of the Byzantine Empire,0.0,0,6,68,0.16666666666666666
+The Story of Film Editing,0.0,0,2,843,0.0
+How the solar system Was Formed,0.0,0,6,342,0.3333333333333333
+Snakes,0.0,0,1,1368,0.0
+The Cost of Venom,0.0,0,4,103,0.0
+The Prokaryotic Cell,0.0,0,3,503,0.3333333333333333
+Towns in the High Middle Ages,0.0,0,10,371,0.4
+Ice Age Sculpture,0.0,0,2,399,0.5
+Industry during the Roman Empire,0.0,0,5,109,0.4
+Origins of Life on Earth,0.0,0,6,255,0.3333333333333333
+Transport of Food to Rome,0.0,0,2,483,0.0
+Where Life Arose,0.0,0,3,922,0.0
+Zebra Stripes,0.0,0,4,56,0.25
+The Behavior of Magma,0.0,0,7,200,0.14285714285714285
+Ocean and Atmosphere on Early Earth,0.0,0,5,455,0.2
+Bird Songs and Calls,0.0,0,2,1708,0.0
+Mass Production under China's First Emperor,0.0,0,8,88,0.125
+Ancient Mapmaking,0.0,0,2,1519,0.0
+The Difference Threshold and Signal-detection Theory,0.0,0,6,87,0.0
+The Columbian Exchange,0.0,0,2,517,0.0
+Echinoderm Evolution,0.0,0,3,753,0.3333333333333333
+The Greek City-States: Sparta and Athens,0.0,0,10,154,0.2
+Planetary Formation,0.0,0,2,958,0.0
+The Heavy Bombardment and Life on Earth,0.0,0,3,1776,0.3333333333333333
+Circadian and Circannian Rhythms,0.0,0,2,601,0.0
+Species Competition,0.0,0,2,1665,0.0
+Origins of the Industrial Revolution,0.0,0,2,843,0.0
+Spider Web Decorations,0.0,0,7,111,0.2857142857142857
+The Beginning of Planet Formation,0.0,0,6,1665,0.16666666666666666
+Interplanetary Seeding,0.0,0,1,1774,0.0
+Development of Mass Transportation in the United States,0.0,0,6,87,0.0
+The Roots of Economic Transformation in England,0.0,0,2,1774,0.5
+Understanding Insects through Fossils,0.0,0,5,846,0.6
+Latin America in the Nineteenth Century,0.0,0,1,1774,0.0
+The Meaning of Upper Paleolithic Art,0.0,0,10,69,0.4
+The Professionalization of Painting in Europe,0.0,0,7,203,0.2857142857142857
+Extinction Trends,0.0,0,2,2065,0.0
+Chemical and Biological Weathering of Rocks,0.0,0,5,207,0.2
+Challenges of Mesopotamian Agriculture,0.0,0,10,63,0.3
+Crown-of-thorns Starfish Populations,0.0,0,5,61,0.4
+Recognizing Social Play in Animals,0.0,0,5,299,0.4
+Mesozoic Seed Dispersal,0.0,0,1,1888,0.0
+Early Chinese Silk Production,0.0,0,3,1008,0.0
+"Murals, Frescoes, and Easel Paintings",0.0,0,7,801,0.2857142857142857
+Roman and Chinese Metalworking,0.0,0,2,543,0.0
+Volcanoes and Climate Change,0.0,0,6,84,0.16666666666666666
+Why Water Bugs Practice Paternal Care of Eggs,0.0,0,5,538,0.4
+Imitation in Monkeys and Apes,0.0,0,10,265,0.1
+Aztec Artisans,0.0,0,4,774,0.25
+Human Impacts on Biogeography,0.0,0,2,1902,0.0
+Dead Zones in the Sea,0.0,0,10,376,0.2
+Dinosaurs and Parental Care,0.0,0,10,367,0.2
+Evidence for Continental Drift,0.0,0,7,21,0.14285714285714285
+Han Dynasty Tomb Sculpture,0.0,0,10,356,0.4
+The Origins of Agriculture,0.0,0,6,195,0.16666666666666666
+Life in an Estuary,0.0,0,10,322,0.5
+Iron in Ancient Africa,0.0,0,10,182,0.3
+"Vasari. Art, and the Renaissance",0.0,0,1,1917,0.0
+The Importance of Mail Service to the Early United States,0.0,0,9,21,0.2222222222222222
+Europe's Economic Recovery in the Fifteenth Century,0.0,0,9,21,0.2222222222222222
+Population Revolution in Eighteenth-Century Europe,0.0,0,6,21,0.3333333333333333
+The Radiocarbon Dating of Prehistoric American Sites,0.0,0,8,28,0.125
+Impacts and Mass Extinctions,0.0,0,7,28,0.2857142857142857
+Insect Size,0.0,0,6,28,0.3333333333333333
+Herbivores on the Serengeti Plain,0.0,0,2,28,0.5
+Sea Ice,0.0,0,2,28,0.5
+Cerebral Lateralization,0.0,0,6,31,0.3333333333333333
+Early European Tapestries,0.0,0,5,31,0.2
+Porcelain in Seventeenth-and Eighteenth-Century England,0.0,0,3,31,0.6666666666666666
+A Mutualistic Fungus of Tall Fescue Grass,0.0,0,6,32,0.3333333333333333
+Sea Turtle Hatchling Strategies for Navigation,0.0,0,10,35,0.2
+Habitat Selection,0.0,0,7,35,0.2857142857142857
+Metamorphosis,0.0,0,5,35,0.2
+The Origins of the Arctic Fox,0.0,0,5,42,0.2
+Did a Volcano Destroy the Minoan Civilization?,0.0,0,6,55,0.0
+Two Kinds of Lizards,0.0,0,5,55,0.2
+Farming New England in Colonial Times,0.0,0,4,55,0.25
+Underground Water,0.0,0,9,56,0.3333333333333333
+Text in Dutch Painting,0.0,0,9,56,0.0
+Bird Colonies,0.0,0,7,56,0.2857142857142857
+Artisans in Sixteenth-Century Europe,0.0,0,5,56,0.0
+Viral Plant Parasites,0.0,0,7,59,0.0
+The Sistine Ceiling,0.0,0,5,60,0.2
+The Origin of the K-T Asteroid,0.0,0,4,62,0.0
+Trade and Herring in Dutch Society,0.0,0,10,63,0.1
+New Farm Technology and the Horse,0.0,0,10,63,0.1
+Cave Artists,0.0,0,10,63,0.1
+Plants in the Diets of Paleo-lndians,0.0,0,6,63,0.5
+Shoaling Behavior,0.0,0,3,68,0.3333333333333333
+The Formation of New Species,0.0,0,8,69,0.25
+Roman Portraits,0.0,0,8,69,0.5
+Sauropods and Conifers,0.0,0,4,69,0.0
+The Distribution of Gliding Animals,0.0,0,2,70,0.5
+Industrialized Moths,0.0,0,3,73,0.0
+Birds and Food Shortage,0.0,0,10,75,0.3
+Constraints on Natural Selection,0.0,0,9,77,0.0
+The Dvaravati Civilization,0.0,0,10,82,0.3
+Chondrites,0.0,0,6,82,0.16666666666666666
+Changes in the Amount of Forest on the Great Plains,0.0,0,4,82,0.5
+The Port of Melaka,0.0,0,4,82,0.0
+Urbanization of Japan,0.0,0,3,82,0.0
+Long Day Length and Flowering Plants,0.0,0,7,83,0.2857142857142857
+The Emergence of Civilization,0.0,0,7,83,0.42857142857142855
+Coral Reef Communities,0.0,0,7,83,0.14285714285714285
+Greek Art in the Classical Age,0.0,0,3,83,0.0
+The Western Roman Empire in the Fifth Century,0.0,0,9,84,0.1111111111111111
+How Old is the Continental Crust?,0.0,0,7,88,0.0
+Economic Decline of the Roman Empire,0.0,0,4,89,0.0
+Polar Dinosaurs,0.0,0,4,89,0.0
+The Angiosperm Revolution,0.0,0,8,97,0.125
+The Switch to coal,0.0,0,3,98,0.3333333333333333
+Energy Distribution in Plants,0.0,0,10,101,0.1
+Documenting the Incas,0.0,0,5,101,0.4
+Preventing Overgrowth among Tree Branches,0.0,0,10,102,0.1
+Life on Mars,0.0,0,8,104,0.25
+The Process of Domestication,0.0,0,5,109,0.2
+The Sound Revolution in American Film,0.0,0,8,115,0.0
+Weather Forecasting,0.0,0,9,116,0.1111111111111111
+Northwest Coast Art,0.0,0,9,118,0.2222222222222222
+Distribution of Seaweeds,0.0,0,6,118,0.5
+Origin of Comets,0.0,0,3,118,0.0
+Roots of the Western Sudanic Empires,0.0,0,10,119,0.2
+Canals and Railroads in the Early Nineteenth Century,0.0,0,7,119,0.2857142857142857
+The Early American Economy,0.0,0,7,119,0.0
+Individual Performance and the Presence of Others,0.0,0,5,119,0.0
+Determining the Ages of the Planets and the Universe,0.0,0,5,119,0.0
+Chinampas,0.0,0,7,126,0.0
+The History of Writing Technology in Europe,0.0,0,2,126,0.0
+Bird Migration,0.0,0,10,129,0.5
+Cretaceous Extinctions,0.0,0,10,129,0.2
+The First Eyes,0.0,0,9,129,0.3333333333333333
+The Rise of Florence,0.0,0,10,132,0.5
+England's Economy in the Sixteenth Century,0.0,0,4,132,0.0
+Oceanic Bird Navigation,0.0,0,4,132,0.25
+Urban Development in the United States in the Nineteenth Century,0.0,0,2,132,0.5
+Preventing Water Loss,0.0,0,9,138,0.0
+Megafauna Extinctions in Ancient Australia,0.0,0,7,138,0.14285714285714285
+Early Bantu Society,0.0,0,3,139,0.0
+The Australian Megafauna Extinctions,0.0,0,10,140,0.2
+Cognitive Maps in Animals,0.0,0,5,147,0.2
+Art and Culture of Pacific Northwest Communities,0.0,0,4,147,0.5
+The Rise of Moscow,0.0,0,1,5425,0.0
+Origin of the Solar System,0.0,0,3,154,0.0
+Pollination,0.0,0,2,154,0.0
+Pleistocene Extinctions,0.0,0,6,174,0.16666666666666666
+Noise in the Sea,0.0,0,10,182,0.1
+Interpreting Prehistoric Cave Art,0.0,0,6,182,0.0
+The Development of Agriculture,0.0,0,3,182,0.0
+The Plow and the Horse in Medieval Europe,0.0,0,4,189,0.25
+The Atmospheric Greenhouse Effect,0.0,0,10,193,0.2
+Forming the Building Blocks of Life,0.0,0,7,193,0.0
+Early Iron Metallurgy,0.0,0,8,195,0.25
+Disturbed and Fragmented Forests,0.0,0,4,199,0.25
+The Beginnings of Agriculture,0.0,0,3,199,0.3333333333333333
+Colonial America and the Navigation Acts,0.0,0,5,200,0.0
+Comets,0.0,0,2,200,0.0
+United States Literature and Art in the Nineteenth Century,0.0,0,3,201,0.3333333333333333
+The Eocene Warming,0.0,0,8,203,0.25
+Why Did Agriculture Begin?,0.0,0,7,203,0.14285714285714285
+The British Economy in the Eighteenth Century,0.0,0,7,206,0.2857142857142857
+The Role of Climate Change and Ecology in History,0.0,0,8,215,0.125
+Christian Thomsen and Danish Artifacts,0.0,0,10,217,0.1
+The Evolution of Plant Roots,0.0,0,10,217,0.3
+The Cosmological Principle,0.0,0,5,217,0.0
+The Roman Road System of Britain,0.0,0,3,217,0.3333333333333333
+The Effects of Squirrels' Storing Behavior,0.0,0,10,223,0.1
+The Jack Pine and Fire,0.0,0,7,230,0.14285714285714285
+The European Freshwater Fish Crisis,0.0,0,9,231,0.1111111111111111
+Costs and Benefits of Social Life,0.0,0,5,231,0.2
+Azolla and Climate in the Arctic and Europe,0.0,0,4,231,0.0
+Formation of the Solar System,0.0,0,6,234,0.3333333333333333
+Bird Molt,0.0,0,5,234,0.0
+Brick Technology in Mesopotamia,0.0,0,10,238,0.3
+Sexual Dimorphism in Lamprologus Callipterus,0.0,0,7,238,0.14285714285714285
+What Made Venetian Art Different?,0.0,0,4,238,0.25
+Origins of Earth's Salty Oceans,0.0,0,3,238,0.3333333333333333
+The Origin of Coral Reefs,0.0,0,5,244,0.4
+Moonquake,0.0,0,6,245,0.0
+Transitions in World Populations,0.0,0,5,247,0.2
+Plant-Animal Adaptations,0.0,0,5,251,0.0
+Biological Invasions,0.0,0,9,259,0.3333333333333333
+Climate Change and Species Distribution,0.0,0,6,265,0.16666666666666666
+The Decline of the Arctic Fox in Scandinavia,0.0,0,7,269,0.2857142857142857
+Sleep,0.0,0,6,269,0.0
+Group living,0.0,0,5,269,0.6
+The Agricultural Revolution,0.0,0,4,272,0.5
+The European Agricultural Revolution in the Sixteenth Century,0.0,0,3,272,0.0
+Continuous Script and Oral Culture in Europe,0.0,0,4,273,0.0
+The Commercialization of Agriculture in the United States,0.0,0,3,276,0.0
+The Postwar Economic Boom,0.0,0,3,283,0.0
+Industrial Decline in Seventeenth-century Italy,0.0,0,3,284,0.6666666666666666
+Gliding and Soaring,0.0,0,9,308,0.2222222222222222
+Dams and Flood Control,0.0,0,7,321,0.2857142857142857
+The Ecology of Kirtland's Warbler,0.0,0,6,322,0.3333333333333333
+E1 Nino and the Southern Oscillation,0.0,0,9,336,0.4444444444444444
+The Younger Dryas Event,0.0,0,6,342,0.6666666666666666
+The Geographical Distribution of Gliding Animals,0.0,0,6,342,0.3333333333333333
+The Early History of Jupiter,0.0,0,3,342,0.6666666666666666
+Dating the Arrival of Humans in North America,0.0,0,10,351,0.3
+The Classic Mayan Collapse,0.0,0,2,354,0.5
+Mexican Mural Art,0.0,0,7,363,0.5714285714285714
+New Light on Dinosaur Controversies,0.0,0,7,363,0.2857142857142857
+China's Twelfth-Century Intellectual Influence on japan,0.0,0,2,367,1.0
+Tree Species Identification in Tropical Rain Forests,0.0,0,9,371,0.4444444444444444
+Glacier Flow and Surging,0.0,0,5,371,0.2
+Forms of Locomotion,0.0,0,4,376,0.25
+Plant and Animal Domestication,0.0,0,8,377,0.25
+Climate and the Ancient Sahara,0.0,0,2,378,0.5
+The Rise and Spread of Japanese Woodblock Prints,0.0,0,9,381,0.3333333333333333
+Motor Development in Children,0.0,0,7,381,0.2857142857142857
+Consolidated Industry in the United States,0.0,0,5,381,0.2
+The Sentinel Behavior of Meerkats,0.0,0,10,392,0.4
+Wool production in Europe on the high Middle Ages,0.0,0,4,395,0.5
+The Chaco Phenomenon,0.0,0,6,419,0.16666666666666666
+Saving Soil and Cropland,0.0,0,2,420,0.0
+Earth’s Atmosphere,0.0,0,9,423,0.1111111111111111
+The Age of Sailing in Europe,0.0,0,9,434,0.2222222222222222
+The Most Common Bird on Earth,0.0,0,7,434,0.2857142857142857
+Bat Diets,0.0,0,5,434,0.8
+Sedentism and Farming,0.0,0,3,434,0.0
+Euglena : Ecosystem Engineers,0.0,0,9,465,0.2222222222222222
+Language as a Historical Source,0.0,0,4,479,0.0
+Fishing in Early Egypt,0.0,0,2,479,0.0
+The Evolution of Reptiles and Therapsids,0.0,0,6,480,0.16666666666666666
+The Cooling of Early Earth,0.0,0,4,481,0.0
+Mesopotamian and Egyptian Settlement Patterns,0.0,0,5,482,0.2
+Personality Traits,0.0,0,9,483,0.3333333333333333
+Jupiter's Moons,0.0,0,4,497,0.25
+Debate about the Earliest Calendars,0.0,0,2,497,0.0
+Water and Life on Mars,0.0,0,2,497,0.0
+Food Production in the Early Modern World,0.0,0,2,503,0.0
+Jupiter's Moon lo,0.0,0,3,507,0.3333333333333333
+Environmental Impact of the Anasazi,0.0,0,4,2723,0.25
+Grinding Grain,0.0,0,9,511,0.1111111111111111
+The Role of Fragrance in Plant Pollination,0.0,0,4,517,0.25
+The Economic and Cultural Impact of Plant Diseases,0.0,0,5,521,0.0
+The Human Appendix,0.0,0,5,521,0.0
+Early Life-forms and Earth's Atmosphere,0.0,0,3,521,0.3333333333333333
+The Solnhofen limestones and Archaeopteryx,0.0,0,7,532,0.42857142857142855
+The Sogdians and the Silk Road,0.0,0,2,538,0.0
+Groundwater Depletion,0.0,0,3,546,0.0
+Aquatic Desert Animals,0.0,0,6,553,0.3333333333333333
+The British Economy Under the Roman Empire,0.0,0,3,561,0.3333333333333333
+Accounting for the High Density of Planet Mercury,0.0,0,4,567,0.0
+Indus River Valley Civilization,0.0,0,6,569,0.16666666666666666
+Models of Egg Development,0.0,0,3,586,0.0
+Beaks of Darwin' Finches,0.0,0,4,587,0.25
+The Price Revolution,0.0,0,6,624,0.5
+Newspaper in Western Europe,0.0,0,4,629,0.25
+Echolocation in Bats,0.0,0,3,631,0.0
+Nutritional Changes in Human History,0.0,0,4,638,0.0
+The Mycenaean Collapse,0.0,0,6,646,0.0
+Domestication,0.0,0,6,655,0.0
+How Animals in Rain Forests Make Themselves Heard,0.0,0,2,665,0.0
+Chaco Canyon,0.0,0,10,696,0.6
+The Multiplier Effect,0.0,0,3,706,0.3333333333333333
+Children's Play,0.0,0,5,713,0.2
+Temperature Regulation in Turtles,0.0,0,3,714,0.3333333333333333
+The Rise of the Maya,0.0,0,5,755,0.4
+The Birth of the Printing Press in Europe,0.0,0,2,759,0.5
+Reconstructing Ancient Environments,0.0,0,7,770,0.14285714285714285
+Live Performance,0.0,0,3,783,0.0
+British Agriculture,0.0,0,3,787,0.0
+Programming Computers to Play Games,0.0,0,4,843,0.0
+Jomon Pottery,0.0,0,7,844,0.14285714285714285
+Archaeological Evidence of Plant and Animal Domestication,0.0,0,3,844,0.0
+Challenge of Dendrochronology,0.0,0,3,874,0.3333333333333333
+Examining the Diets of Prehistoric People,0.0,0,5,881,0.2
+The Problem with Microplastics,0.0,0,2,895,0.0
+Bison and Humans,0.0,0,5,910,0.0
+The Development of Factories,0.0,0,2,913,0.0
+Development of Intensive Agriculture,0.0,0,3,941,0.0
+Greek Sacred Groves and Parks,0.0,0,6,971,0.3333333333333333
+Evolution in Peppered Moths,0.0,0,4,973,0.5
+Characteristics of Sixteenth-Century European Towns,0.0,0,3,979,0.0
+Agriculture in the Late Ottoman Empire,0.0,0,7,986,0.0
+Tern Hunting of Fish,0.0,0,2,1008,0.0
+Early Theories of Continental Drift,0.0,0,3,1014,0.0
+How Plants and Animals Arrived in the Hawaiian Islands,0.0,0,4,1028,0.0
+The Absence of Snakes in Ireland,0.0,0,1,1053,1.0
+Why Did Nonavian Dinosaurs Become Extinct?,0.0,0,2,1054,0.5
+Industrial Activities in Britannia,0.0,0,4,1063,0.5
+The Extinction of the Dinosaurs,0.0,0,2,1067,0.5
+The Origin of Earth's Atmosphere,0.0,0,2,1083,0.5
+Polynesian Migration,0.0,0,4,1111,0.25
+Olmec Art,0.0,0,2,1165,0.0
+Photography and the Pictorial Weeklies,0.0,0,8,1174,0.375
+Guam and the Brown Tree Snake,0.0,0,2,1243,0.0
+Historical Trends in European Urban Design,0.0,0,2,1307,0.0
+Stone Tools and Pottery Fragments,0.0,0,2,1363,0.0
+Sensing Airflow,0.0,0,3,1463,0.3333333333333333
+The Qualities of a Good Trout Stream,0.0,0,2,1496,0.5
+Sequencing Ice Ages,0.0,0,2,1512,0.5
+Examining the Problem of Bycatch,0.0,0,1,1649,0.0
+Cotton Ginning and Interchangeable Parts:The Legacy of Eli Whitney,0.0,0,1,1663,0.0
+Increasing Jellyfish Populations,0.0,0,3,1665,0.0
+The Development of Land Flora,0.0,0,2,1668,0.0
+Agricultural Society in Eighteenth-Century British America,0.0,0,2,1698,0.0
+The Early Cyclades,0.0,0,1,1719,0.0
+Leaf Shapes,0.0,0,1,1719,0.0
+The Early History of Motion Pictures,0.0,0,4,1722,0.0
+Iridium and the Terminal Cretaceous Event,0.0,0,1,1726,0.0
+Deriving Scientific Facts from Theories,0.0,0,1,1726,0.0
+Imitation in Child Development,0.0,0,1,1726,0.0
+Infant-Directed Speech,0.0,0,1,1745,0.0
+Confectioners and Penny Candies in the United States,0.0,0,1,1751,0.0
+Ceology's Impact on the Economy of the United States,0.0,0,1,1751,0.0
+Causes of Glacial Ages,0.0,0,1,1754,0.0
+Bumblebee Heat Regulation,0.0,0,2,1760,0.0
+Ziggurats in Mesopotamia,0.0,0,1,1766,0.0
+Breathing Inside an Egg,0.0,0,1,1766,0.0
+The Ecological Roles of Birds,0.0,0,4,1774,0.5
+The Harappan Decline,0.0,0,3,1776,0.0
+Pleistocene Overkill,0.0,0,4,1887,0.25
+The Documentary Film in the United States,0.0,0,5,1910,0.0
+Group Foraging,0.0,0,2,1914,0.5
+Understanding Ancient Mesoamerican Art,0.0,0,2,1916,0.0
+Water Management in Early Agriculture,0.0,0,2,1935,0.5
+Milankovitch Cycles and Glaciation,0.0,0,3,1936,0.0
+How Soil is Formed,0.0,0,2,1942,0.5
+Extinctions at the End of the Cretaceous,0.0,0,2,1942,0.0
+Agriculture in Medieval Japan,0.0,0,2,1942,0.0
+Three Theories about Origin of Life,0.0,0,2,1946,0.0
+Extinction and the Mammoth Steppe,0.0,0,1,2034,0.0
+Foundational and Keystone Species,0.0,0,3,2141,0.0
+Effects of the Commercial Revolution,0.0,0,5,2172,0.4
+The Brain Size of Bottlenose Dolphins,0.0,0,5,2317,0.2
+The Cambrian Explosion,0.0,0,3,2374,0.0
+Machines and Manufacturing,0.0,0,8,2506,0.375
+Temperature Regulation in Marine Organisms,0.0,0,4,2506,0.25
+The Identification of the Genetic Material,0.0,0,3,2526,0.3333333333333333
+Early Modern Industrialization,0.0,0,3,2559,0.3333333333333333
+Sumerian Contributions,0.0,0,3,2568,0.3333333333333333
+Economic Changes in Late-Nineteenth-Century Europe,0.0,0,1,2568,1.0
+Costs of Quitting a Job,0.0,0,1,2575,1.0
+Weak Electric Systems in Fish,0.0,0,3,2681,0.0
+Cereals and Legumes: A Partnership,0.0,0,2,2725,0.0
+Alaska and Bark Beetles,0.0,0,3,2744,0.0
+Mating Songs of Frogs,0.0,0,6,2748,0.3333333333333333
+Egypt Circa 3100 B.C.,0.0,0,2,2792,0.0
+Costs and Benefits of Dispersal,0.0,0,3,2813,0.0
+Birdsong,0.0,0,2,2848,0.0
+Mass Production: Method and Impact,0.0,0,2,2870,0.5
+Economic Decline in Europe During the Fourteenth Century,0.0,0,2,2912,0.5
+European Context of the Scientific Revolution,0.0,0,1,2989,0.0
+The Role of Diapause,0.0,0,1,3171,0.0
+Plant and Animal Life of the Pacific Islands,0.0,0,2,3305,0.5
+Bioluminescence in Marine Creatures,0.0,0,1,3305,1.0
+Removing Dams,0.0,0,1,3629,1.0
+Cave and Rock Art,0.0,0,1,3637,1.0
+Portraits as Art,0.0,0,2,3643,0.5
+Features of Tropical Mammals,0.0,0,1,3738,0.0
+American Licensing Laws,0.0,0,2,55,0.5
+Grassland Environment,0.0,0,1,3780,0.0
+Controversy about Causing Emotion,0.0,0,1,3786,0.0
+Climate Change and the Natufian People,0.0,0,1,3786,0.0
+Water Supply in Venice,0.0,0,1,3808,0.0
+Honeybee Society,0.0,0,1,3822,0.0
+How Birds Acquire Their Songs,0.0,0,1,3828,0.0
+Primitive and Advanced Termite Species,0.0,0,1,3843,0.0
+Elements of Life,0.0,0,1,3843,0.0
+Gondwana,0.0,0,1,3870,0.0
+Earthquake Prediction,0.0,0,1,3962,0.0
+Poetry Writing Course to be Canceled,0.0,0,1,4004,1.0
+Origins of the Megaliths,0.0,0,1,4004,1.0
+Vocalization in Frogs,0.0,0,1,4046,1.0
+Architectural Change in Eighth-Century Japan,0.0,0,1,4095,0.0
+The Role of the Ocean in Controlling Climate,0.0,0,1,4109,0.0
+Dating Ancient Art,0.0,0,6,80,0.16666666666666666
+Animal Behavior,0.0,0,1,4109,0.0
+Soil Fertilization,0.0,0,1,4150,0.0
+Mesolithic Complexity in Scandinavia,0.0,0,1,4158,0.0
+How Herding Can Provide Safety,0.0,0,1,4158,0.0
+Hunting and the Setting of Inner Eurasia,0.0,0,1,4158,0.0
+Written Records,0.0,0,1,4192,0.0
+Sociality in Animals,0.0,0,1,4192,0.0
+Southwest Agriculture,0.0,0,1,4200,0.0
+The Development of Printing,0.0,0,1,4220,0.0
+Earth’s Energy Cycle,0.0,0,1,4256,0.0
+Wind pollination,0.0,0,1,4256,0.0
+Feeding Strategies in the Ocean,0.0,0,1,4256,0.0
+What Controls Flowering,0.0,0,1,4690,0.0
+Crown of Thorns Starfish and Coral Reefs,0.0,0,1,5425,0.0
+Deer Antlers and Seasonal Mating,0.0,0,2,55,0.0
